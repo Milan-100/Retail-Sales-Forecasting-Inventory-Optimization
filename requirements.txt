@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+pydantic
+sqlmodel
+pandas
+numpy
+scipy
+scikit-learn
+matplotlib
+seaborn
+streamlit
+plotly
+requests
+httpx
+python-dotenv
+pytest
